@@ -6,3 +6,20 @@ body {
 a {
   color: #00B7FF;
 }
+
+body {
+  text-align: center;
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+.currency {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.chart-div {
+  width: 70%;
+  margin: 50px auto;
+}
